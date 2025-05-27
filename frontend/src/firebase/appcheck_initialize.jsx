@@ -3,13 +3,13 @@ import { initializeAppCheck, ReCaptchaV3Provider } from "firebase/app-check";
 
 // configuração do Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCa6WkPGhGp59fi1vPQPpwkU3iLxk48duA",
-  authDomain: "cidadeintegra.firebaseapp.com",
-  projectId: "cidadeintegra",
-  storageBucket: "cidadeintegra.firebasestorage.app",
-  messagingSenderId: "677900581774",
-  appId: "1:677900581774:web:55b7f22512b4a4e06682df",
-  measurementId: "G-QZT88Y8C4F"
+  // apiKey: "AIzaSyCa6WkPGhGp59fi1vPQPpwkU3iLxk48duA",
+  // authDomain: "cidadeintegra.firebaseapp.com",
+  // projectId: "cidadeintegra",
+  // storageBucket: "cidadeintegra.firebasestorage.app",
+  // messagingSenderId: "677900581774",
+  // appId: "1:677900581774:web:55b7f22512b4a4e06682df",
+  // measurementId: "G-QZT88Y8C4F"
 };
 
 // inicializa o Firebase
